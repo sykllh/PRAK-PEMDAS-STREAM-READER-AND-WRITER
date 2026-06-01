@@ -7,5 +7,9 @@ using namespace std;
 int main()
 {
     cout << "Awal program" << endl; //penanda 1
-    
+    try
+    {
+        //deklarasi array data dengan panjang index 3
+        
+    }
 }
